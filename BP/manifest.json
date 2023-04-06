@@ -1,0 +1,67 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Silicontent"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.0"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	},
+	"header": {
+		"name": "teufel 4",
+		"description": "this is starting to get old",
+		"min_engine_version": [
+			1,
+			19,
+			50
+		],
+		"uuid": "45af9fee-ad70-41f8-ac4c-4eef50ce3a6a",
+		"version": [
+			4,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "d397fb73-441f-4527-ac9b-f4cabded3780",
+			"version": [
+				4,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "d1fbfd32-827f-4ead-ae68-ed0d86cb87a4",
+			"entry": "scripts/main.js",
+			"version": [
+				4,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.0.0-beta"
+		},
+		{
+			"module_name": "@minecraft/server-gametest",
+			"version": "1.0.0-beta"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "1.0.0-beta"
+		}
+	]
+}

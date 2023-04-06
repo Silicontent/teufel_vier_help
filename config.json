@@ -1,0 +1,45 @@
+{
+	"type": "minecraftBedrock",
+	"name": "teufel 4",
+	"namespace": "teufel",
+	"authors": [
+		"Silicontent"
+	],
+	"targetVersion": "1.19.50",
+	"description": "this is starting to get old",
+	"experimentalGameplay": {
+		"holidayCreatorFeatures": true,
+		"creationOfCustomBiomes": true,
+		"upcomingCreatorFeatures": true,
+		"enableGameTestFramework": true,
+		"experimentalMolangFeatures": true,
+		"educationEdition": true
+	},
+	"bdsProject": false,
+	"packs": {
+		"resourcePack": "./RP",
+		"behaviorPack": "./BP"
+	},
+	"worlds": [
+		"./worlds/*"
+	],
+	"compiler": {
+		"plugins": [
+			"generatorScripts",
+			"typeScript",
+			"entityIdentifierAlias",
+			"customEntityComponents",
+			"customItemComponents",
+			"customBlockComponents",
+			"customCommands",
+			"moLang",
+			"formatVersionCorrection",
+			[
+				"simpleRewrite",
+				{
+					"packName": "teufel 4"
+				}
+			]
+		]
+	}
+}

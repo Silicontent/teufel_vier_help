@@ -1,0 +1,35 @@
+{
+    "format_version": "1.18.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "teufel:spruce_chestplate",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:creative_category": {
+                "parent": "itemGroup.name.chestplate"
+            },
+            "minecraft:icon": {
+                "texture": "spruce_chestplate"
+            },
+            "minecraft:display_name": {
+                "value": "Spruce Wood Chestplate"
+            },
+            "minecraft:max_stack_size": 1,
+            "minecraft:enchantable": {
+                "value": 2,
+                "slot": "armor_torso"
+            },
+            "minecraft:armor": {
+                "protection": 1
+            },
+            "minecraft:wearable": {
+                "dispensable": true,
+                "slot": "slot.armor.chest"
+            },
+            "minecraft:durability": {
+                "max_durability": 69
+            }
+        }
+    }
+}

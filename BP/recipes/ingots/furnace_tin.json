@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "teufel:furnace_tin"
+    },
+
+    
+    "tags": ["furnace", "blast_furnace"],
+    "input": "teufel:raw_tin",
+    "output": "teufel:tin_ingot"
+  }
+  
+}

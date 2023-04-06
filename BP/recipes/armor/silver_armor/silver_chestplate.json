@@ -1,0 +1,27 @@
+{
+  "format_version": "1.18.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "teufel:silver_chestplate"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "X X",
+      "X#X",
+      "XXX"
+    ],
+    "key": {
+      "X": {
+        "item": "teufel:silver_ingot"
+      },
+      "#": {
+        "item": "teufel:silver_block"
+      }
+    },
+    "result": {
+      "item": "teufel:silver_chestplate"
+    }
+  }
+}

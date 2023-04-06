@@ -1,0 +1,26 @@
+{
+  "format_version": "1.18.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "teufel:truffum_helmet"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "X#X",
+      "X X"
+    ],
+    "key": {
+      "X": {
+        "item": "teufel:truffite_ingot"
+      },
+      "#": {
+        "item": "teufel:truffite_block"
+      }
+    },
+    "result": {
+      "item": "teufel:truffum_helmet"
+    }
+  }
+}

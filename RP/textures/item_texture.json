@@ -1,0 +1,282 @@
+{
+   "resource_pack_name" : "teufel",
+   "texture_data" : {
+      "wooden_chestplate": {
+         "textures": "textures/items/armor/wooden_armor/default/wooden_chestplate"
+      },
+      "wooden_helmet": {
+         "textures": "textures/items/armor/wooden_armor/default/wooden_helmet"
+      },
+      "wooden_leggings": {
+         "textures": "textures/items/armor/wooden_armor/default/wooden_leggings"
+      },
+      "wooden_boots": {
+         "textures": "textures/items/armor/wooden_armor/default/wooden_boots"
+      },
+      "oak_chestplate": {
+         "textures": "textures/items/armor/wooden_armor/oak_armor/oak_chestplate"
+      },
+      "oak_helmet": {
+         "textures": "textures/items/armor/wooden_armor/oak_armor/oak_helmet"
+      },
+      "oak_leggings": {
+         "textures": "textures/items/armor/wooden_armor/oak_armor/oak_leggings"
+      },
+      "oak_boots": {
+         "textures": "textures/items/armor/wooden_armor/oak_armor/oak_boots"
+      },
+      "spruce_chestplate": {
+         "textures": "textures/items/armor/wooden_armor/spruce_armor/spruce_chestplate"
+      },
+      "spruce_helmet": {
+         "textures": "textures/items/armor/wooden_armor/spruce_armor/spruce_helmet"
+      },
+      "spruce_leggings": {
+         "textures": "textures/items/armor/wooden_armor/spruce_armor/spruce_leggings"
+      },
+      "spruce_boots": {
+         "textures": "textures/items/armor/wooden_armor/spruce_armor/spruce_boots"
+      },
+      "birch_chestplate": {
+         "textures": "textures/items/armor/wooden_armor/birch_armor/birch_chestplate"
+      },
+      "birch_helmet": {
+         "textures": "textures/items/armor/wooden_armor/birch_armor/birch_helmet"
+      },
+      "birch_leggings": {
+         "textures": "textures/items/armor/wooden_armor/birch_armor/birch_leggings"
+      },
+      "birch_boots": {
+         "textures": "textures/items/armor/wooden_armor/birch_armor/birch_boots"
+      },
+      "jungle_chestplate": {
+         "textures": "textures/items/armor/wooden_armor/jungle_armor/jungle_chestplate"
+      },
+      "jungle_helmet": {
+         "textures": "textures/items/armor/wooden_armor/jungle_armor/jungle_helmet"
+      },
+      "jungle_leggings": {
+         "textures": "textures/items/armor/wooden_armor/jungle_armor/jungle_leggings"
+      },
+      "jungle_boots": {
+         "textures": "textures/items/armor/wooden_armor/jungle_armor/jungle_boots"
+      },
+      "acacia_chestplate": {
+         "textures": "textures/items/armor/wooden_armor/acacia_armor/acacia_chestplate"
+      },
+      "acacia_helmet": {
+         "textures": "textures/items/armor/wooden_armor/acacia_armor/acacia_helmet"
+      },
+      "acacia_leggings": {
+         "textures": "textures/items/armor/wooden_armor/acacia_armor/acacia_leggings"
+      },
+      "acacia_boots": {
+         "textures": "textures/items/armor/wooden_armor/acacia_armor/acacia_boots"
+      },
+      "dark_oak_chestplate": {
+         "textures": "textures/items/armor/wooden_armor/dark_oak_armor/dark_oak_chestplate"
+      },
+      "dark_oak_helmet": {
+         "textures": "textures/items/armor/wooden_armor/dark_oak_armor/dark_oak_helmet"
+      },
+      "dark_oak_leggings": {
+         "textures": "textures/items/armor/wooden_armor/dark_oak_armor/dark_oak_leggings"
+      },
+      "dark_oak_boots": {
+         "textures": "textures/items/armor/wooden_armor/dark_oak_armor/dark_oak_boots"
+      },
+      "mangrove_chestplate": {
+         "textures": "textures/items/armor/wooden_armor/mangrove_armor/mangrove_chestplate"
+      },
+      "mangrove_helmet": {
+         "textures": "textures/items/armor/wooden_armor/mangrove_armor/mangrove_helmet"
+      },
+      "mangrove_leggings": {
+         "textures": "textures/items/armor/wooden_armor/mangrove_armor/mangrove_leggings"
+      },
+      "mangrove_boots": {
+         "textures": "textures/items/armor/wooden_armor/mangrove_armor/mangrove_boots"
+      },
+      "crimson_chestplate": {
+         "textures": "textures/items/armor/wooden_armor/crimson_armor/crimson_chestplate"
+      },
+      "crimson_helmet": {
+         "textures": "textures/items/armor/wooden_armor/crimson_armor/crimson_helmet"
+      },
+      "crimson_leggings": {
+         "textures": "textures/items/armor/wooden_armor/crimson_armor/crimson_leggings"
+      },
+      "crimson_boots": {
+         "textures": "textures/items/armor/wooden_armor/crimson_armor/crimson_boots"
+      },
+      "warped_chestplate": {
+         "textures": "textures/items/armor/wooden_armor/warped_armor/warped_chestplate"
+      },
+      "warped_helmet": {
+         "textures": "textures/items/armor/wooden_armor/warped_armor/warped_helmet"
+      },
+      "warped_leggings": {
+         "textures": "textures/items/armor/wooden_armor/warped_armor/warped_leggings"
+      },
+      "warped_boots": {
+         "textures": "textures/items/armor/wooden_armor/warped_armor/warped_boots"
+      },
+      "stone_chestplate": {
+         "textures": "textures/items/armor/stone_armor/stone_chestplate"
+      },
+      "stone_helmet": {
+         "textures": "textures/items/armor/stone_armor/stone_helmet"
+      },
+      "stone_leggings": {
+         "textures": "textures/items/armor/stone_armor/stone_leggings"
+      },
+      "stone_boots": {
+         "textures": "textures/items/armor/stone_armor/stone_boots"
+      },
+      "deepslate_chestplate": {
+         "textures": "textures/items/armor/stone_armor/deepslate_chestplate"
+      },
+      "deepslate_helmet": {
+         "textures": "textures/items/armor/stone_armor/deepslate_helmet"
+      },
+      "deepslate_leggings": {
+         "textures": "textures/items/armor/stone_armor/deepslate_leggings"
+      },
+      "deepslate_boots": {
+         "textures": "textures/items/armor/stone_armor/deepslate_boots"
+      },
+      "copper_chestplate": {
+         "textures": "textures/items/armor/copper_armor/copper_chestplate"
+      },
+      "copper_helmet": {
+         "textures": "textures/items/armor/copper_armor/copper_helmet"
+      },
+      "copper_leggings": {
+         "textures": "textures/items/armor/copper_armor/copper_leggings"
+      },
+      "copper_boots": {
+         "textures": "textures/items/armor/copper_armor/copper_boots"
+      },
+      "tin_ingot": {
+         "textures": "textures/items/ingots/tin_ingot"
+      },
+      "raw_tin": {
+         "textures": "textures/items/raw/raw_tin"
+      },
+      "tin_chestplate": {
+         "textures": "textures/items/armor/tin_armor/tin_chestplate"
+      },
+      "tin_helmet": {
+         "textures": "textures/items/armor/tin_armor/tin_helmet"
+      },
+      "tin_leggings": {
+         "textures": "textures/items/armor/tin_armor/tin_leggings"
+      },
+      "tin_boots": {
+         "textures": "textures/items/armor/tin_armor/tin_boots"
+      },
+      "meteor_ingot": {
+         "textures": "textures/items/ingots/meteor_ingot"
+      },
+      "fireball_chestplate": {
+         "textures": "textures/items/armor/fireball_armor/fireball_chestplate"
+      },
+      "fireball_helmet": {
+         "textures": "textures/items/armor/fireball_armor/fireball_helmet"
+      },
+      "fireball_leggings": {
+         "textures": "textures/items/armor/fireball_armor/fireball_leggings"
+      },
+      "fireball_boots": {
+         "textures": "textures/items/armor/fireball_armor/fireball_boots"
+      },
+      "silver_ingot": {
+         "textures": "textures/items/ingots/silver_ingot"
+      },
+      "raw_silver": {
+         "textures": "textures/items/raw/raw_silver"
+      },
+      "silver_chestplate": {
+         "textures": "textures/items/armor/silver_armor/silver_chestplate"
+      },
+      "silver_helmet": {
+         "textures": "textures/items/armor/silver_armor/silver_helmet"
+      },
+      "silver_leggings": {
+         "textures": "textures/items/armor/silver_armor/silver_leggings"
+      },
+      "silver_boots": {
+         "textures": "textures/items/armor/silver_armor/silver_boots"
+      },
+      "lush_chestplate": {
+         "textures": "textures/items/armor/lush_armor/lush_chestplate"
+      },
+      "lush_helmet": {
+         "textures": "textures/items/armor/lush_armor/lush_helmet"
+      },
+      "lush_leggings": {
+         "textures": "textures/items/armor/lush_armor/lush_leggings"
+      },
+      "lush_boots": {
+         "textures": "textures/items/armor/lush_armor/lush_boots"
+      },
+      "life_essence": {
+         "textures": "textures/items/essences/life_essence"
+      },
+      "death_essence": {
+         "textures": "textures/items/essences/death_essence"
+      },
+      "fire_essence": {
+         "textures": "textures/items/essences/fire_essence"
+      },
+      "frost_essence": {
+         "textures": "textures/items/essences/frost_essence"
+      },
+      "peace_essence": {
+         "textures": "textures/items/essences/peace_essence"
+      },
+      "pain_essence": {
+         "textures": "textures/items/essences/pain_essence"
+      },
+      "time_essence": {
+         "textures": "textures/items/essences/time_essence"
+      },
+      "webbed_ingot": {
+         "textures": "textures/items/ingots/webbed_ingot"
+      },
+      "spider_chestplate": {
+         "textures": "textures/items/armor/spider_armor/spider_chestplate"
+      },
+      "spider_helmet": {
+         "textures": "textures/items/armor/spider_armor/spider_helmet"
+      },
+      "spider_leggings": {
+         "textures": "textures/items/armor/spider_armor/spider_leggings"
+      },
+      "spider_boots": {
+         "textures": "textures/items/armor/spider_armor/spider_boots"
+      },
+      "glowing_mushroom": {
+         "textures": "textures/items/glowing_mushroom"
+      },
+      "truffite_ingot": {
+         "textures": "textures/items/ingots/truffite_ingot"
+      },
+      "truffum_chestplate": {
+         "textures": "textures/items/armor/truffum_armor/truffum_chestplate"
+      },
+      "truffum_helmet": {
+         "textures": "textures/items/armor/truffum_armor/truffum_helmet"
+      },
+      "truffum_leggings": {
+         "textures": "textures/items/armor/truffum_armor/truffum_leggings"
+      },
+      "truffum_boots": {
+         "textures": "textures/items/armor/truffum_armor/truffum_boots"
+      },
+      "endangered_shard": {
+         "textures": "textures/items/endangered_shard"
+      }
+   },
+   "texture_name" : "atlas.items"
+}

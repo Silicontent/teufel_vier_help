@@ -1,0 +1,23 @@
+{
+  "format_version": "1.18.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "teufel:warped_helmet"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "XXX",
+      "X X"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:warped_planks"
+      }
+    },
+    "result": {
+      "item": "teufel:warped_helmet"
+    }
+  }
+}

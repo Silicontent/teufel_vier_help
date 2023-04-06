@@ -1,0 +1,27 @@
+{
+  "format_version": "1.18.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "teufel:tin_leggings"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "X#X",
+      "X X",
+      "X X"
+    ],
+    "key": {
+      "X": {
+        "item": "teufel:tin_ingot"
+      },
+      "#": {
+        "item": "teufel:tin_block"
+      }
+    },
+    "result": {
+      "item": "teufel:tin_leggings"
+    }
+  }
+}

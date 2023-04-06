@@ -1,0 +1,143 @@
+{
+    "format_version": "1.19.30",
+    "teufel:tin_block": {
+        "textures": {
+            "up": "tin_block",
+            "down": "tin_block",
+            "north": "tin_block",
+            "south": "tin_block",
+            "east": "tin_block",
+            "west": "tin_block"
+        },
+        "carried_textures": "tin_block",
+        "isotropic": false,
+        "sound": "metal"
+    },
+    "teufel:tin_ore": {
+        "textures": {
+            "up": "tin_ore",
+            "down": "tin_ore",
+            "north": "tin_ore",
+            "south": "tin_ore",
+            "east": "tin_ore",
+            "west": "tin_ore"
+        },
+        "carried_textures": "tin_ore",
+        "isotropic": false,
+        "sound": "stone"
+    },
+    "teufel:deepslate_tin_ore": {
+        "textures": {
+            "up": "deepslate_tin_ore",
+            "down": "deepslate_tin_ore",
+            "north": "deepslate_tin_ore",
+            "south": "deepslate_tin_ore",
+            "east": "deepslate_tin_ore",
+            "west": "deepslate_tin_ore"
+        },
+        "carried_textures": "deepslate_tin_ore",
+        "isotropic": false,
+        "sound": "deepslate"
+    },
+    "teufel:silver_block": {
+        "textures": {
+            "up": "silver_block",
+            "down": "silver_block",
+            "north": "silver_block",
+            "south": "silver_block",
+            "east": "silver_block",
+            "west": "silver_block"
+        },
+        "carried_textures": "silver_block",
+        "isotropic": false,
+        "sound": "metal"
+    },
+    "teufel:silver_ore": {
+        "textures": {
+            "up": "silver_ore",
+            "down": "silver_ore",
+            "north": "silver_ore",
+            "south": "silver_ore",
+            "east": "silver_ore",
+            "west": "silver_ore"
+        },
+        "carried_textures": "silver_ore",
+        "isotropic": false,
+        "sound": "stone"
+    },
+    "teufel:deepslate_silver_ore": {
+        "textures": {
+            "up": "deepslate_silver_ore",
+            "down": "deepslate_silver_ore",
+            "north": "deepslate_silver_ore",
+            "south": "deepslate_silver_ore",
+            "east": "deepslate_silver_ore",
+            "west": "deepslate_silver_ore"
+        },
+        "carried_textures": "deepslate_silver_ore",
+        "isotropic": false,
+        "sound": "deepslate"
+    },
+    "teufel:webbed_block": {
+        "textures": {
+            "up": "webbed_block",
+            "down": "webbed_block",
+            "north": "webbed_block",
+            "south": "webbed_block",
+            "east": "webbed_block",
+            "west": "webbed_block"
+        },
+        "carried_textures": "webbed_block",
+        "isotropic": false,
+        "sound": "stone"
+    },
+    "teufel:truffite_block": {
+        "textures": {
+            "up": "truffite_block",
+            "down": "truffite_block",
+            "north": "truffite_block",
+            "south": "truffite_block",
+            "east": "truffite_block",
+            "west": "truffite_block"
+        },
+        "carried_textures": "truffite_block",
+        "isotropic": false,
+        "sound": "metal"
+    },
+    "teufel:glowing_grass_block": {
+        "textures": {
+            "up": "glowing_grass_top",
+            "down": "glowing_grass_bottom",
+            "north": "glowing_grass_side",
+            "south": "glowing_grass_side",
+            "east": "glowing_grass_side",
+            "west": "glowing_grass_side"
+        },
+        "isotropic": false,
+        "sound": "grass"
+    },
+    "teufel:glowing_mushroom_block": {
+        "textures": {
+            "up": "glowing_mushroom_block",
+            "down": "glowing_mushroom_block",
+            "north": "glowing_mushroom_block",
+            "south": "glowing_mushroom_block",
+            "east": "glowing_mushroom_block",
+            "west": "glowing_mushroom_block"
+        },
+        "isotropic": false,
+        "sound": "wood"
+    },
+    "teufel:living_wood": {
+        "textures": {
+            "up": "living_wood_end",
+            "down": "living_wood_end",
+            "north": "living_wood_side",
+            "south": "living_wood_side",
+            "east": "living_wood_side",
+            "west": "living_wood_side"
+        },
+        "isotropic": false,
+        "sound": "wood"
+    }
+}

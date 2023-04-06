@@ -1,0 +1,29 @@
+{
+  "format_version": "1.18.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "teufel:lush_boots"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "X X",
+      "#S#"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:moss_block"
+      },
+      "#": {
+        "item": "minecraft:glow_berries"
+      },
+      "S": {
+        "item": "teufel:endangered_shard"
+      }
+    },
+    "result": {
+      "item": "teufel:lush_boots"
+    }
+  }
+}

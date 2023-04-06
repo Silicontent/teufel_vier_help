@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "teufel:truffite_ingot"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "X#X",
+      "#C#",
+      "X#X"
+    ],
+    "key": {
+      "C": {
+        "item": "minecraft:iron_ingot"
+      },
+      "#": {
+        "item": "teufel:glowing_mushroom"
+      },
+      "X": {
+        "item": "teufel:frost_essence"
+      }
+    },
+    "result": {
+      "item": "teufel:truffite_ingot"
+    }
+  }
+}

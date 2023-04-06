@@ -1,0 +1,23 @@
+{
+  "format_version": "1.18.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "teufel:stone_boots"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "X X",
+      "X X"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:cobblestone"
+      }
+    },
+    "result": {
+      "item": "teufel:stone_boots"
+    }
+  }
+}

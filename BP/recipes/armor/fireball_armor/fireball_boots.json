@@ -1,0 +1,23 @@
+{
+  "format_version": "1.18.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "teufel:fireball_boots"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "X X",
+      "X X"
+    ],
+    "key": {
+      "X": {
+        "item": "teufel:meteor_ingot"
+      }
+    },
+    "result": {
+      "item": "teufel:fireball_boots"
+    }
+  }
+}

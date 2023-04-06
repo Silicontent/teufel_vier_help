@@ -1,0 +1,23 @@
+{
+  "format_version": "1.18.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "teufel:tin_boots"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "X X",
+      "X X"
+    ],
+    "key": {
+      "X": {
+        "item": "teufel:tin_ingot"
+      }
+    },
+    "result": {
+      "item": "teufel:tin_boots"
+    }
+  }
+}

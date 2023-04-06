@@ -1,0 +1,24 @@
+{
+  "format_version": "1.18.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "teufel:spruce_chestplate"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "X X",
+      "XXX",
+      "XXX"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:planks:1"
+      }
+    },
+    "result": {
+      "item": "teufel:spruce_chestplate"
+    }
+  }
+}

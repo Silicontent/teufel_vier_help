@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "teufel:truffite_ingot_from_block"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "teufel:truffite_block"
+      }
+    },
+    "result": {
+      "item": "teufel:truffite_ingot",
+      "count": 4
+    }
+  }
+}

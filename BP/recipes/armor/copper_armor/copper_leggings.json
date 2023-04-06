@@ -1,0 +1,27 @@
+{
+  "format_version": "1.18.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "teufel:copper_leggings"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "X#X",
+      "X X",
+      "X X"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:copper_ingot"
+      },
+      "#": {
+        "item": "minecraft:copper_block"
+      }
+    },
+    "result": {
+      "item": "teufel:copper_leggings"
+    }
+  }
+}

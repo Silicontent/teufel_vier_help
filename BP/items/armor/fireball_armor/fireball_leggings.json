@@ -1,0 +1,35 @@
+{
+    "format_version": "1.18.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "teufel:fireball_leggings",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:creative_category": {
+                "parent": "itemGroup.name.leggings"
+            },
+            "minecraft:icon": {
+                "texture": "fireball_leggings"
+            },
+            "minecraft:display_name": {
+                "value": "Fireball Leggings"
+            },
+            "minecraft:max_stack_size": 1,
+            "minecraft:enchantable": {
+                "value": 8,
+                "slot": "armor_legs"
+            },
+            "minecraft:armor": {
+                "protection": 5
+            },
+            "minecraft:wearable": {
+                "dispensable": true,
+                "slot": "slot.armor.legs"
+            },
+            "minecraft:durability": {
+                "max_durability": 789
+            }
+        }
+    }
+}

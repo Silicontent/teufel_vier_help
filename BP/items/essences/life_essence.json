@@ -1,0 +1,20 @@
+{
+    "format_version": "1.18.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "teufel:life_essence"
+        },
+        "components": {
+            "minecraft:max_stack_size": 64,
+            "minecraft:hand_equipped": false,
+            "minecraft:foil": false,
+            "minecraft:icon": {
+                "texture": "life_essence"
+            },
+            "minecraft:display_name": {
+                "value": "Essence of Life"
+            },
+            "minecraft:render_offsets": "apple"
+        }
+    }
+}

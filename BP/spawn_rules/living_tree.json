@@ -1,0 +1,26 @@
+{
+    "format_version": "1.19.50",
+    "minecraft:spawn_rules": {
+        "description": {
+            "identifier": "teufel:living_tree",
+            "population_control": "monster"
+        },
+        "conditions": [
+            {
+                "minecraft:spawns_on_surface": {},
+                "minecraft:spawns_on_block_filter": "minecraft:grass",
+                "minecraft:brightness_filter": {
+                    "min": 7,
+                    "max": 15,
+                    "adjust_for_weather": true
+                },
+                "minecraft:weight": {
+                    "default": 6
+                },
+                "minecraft:biome_filter": {
+                    "test": "is_biome", "operator": "==", "value": "forest"
+                }
+            }
+        ]
+    }
+}

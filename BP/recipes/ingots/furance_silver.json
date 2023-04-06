@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "teufel:furnace_silver"
+    },
+
+    
+    "tags": ["furnace", "blast_furnace"],
+    "input": "teufel:raw_silver",
+    "output": "teufel:silver_ingot"
+  }
+  
+}

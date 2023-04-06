@@ -1,0 +1,29 @@
+{
+  "format_version": "1.18.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "teufel:lush_helmet"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#S#",
+      "X X"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:moss_block"
+      },
+      "#": {
+        "item": "minecraft:glow_berries"
+      },
+      "S": {
+        "item": "teufel:endangered_shard"
+      }
+    },
+    "result": {
+      "item": "teufel:lush_helmet"
+    }
+  }
+}
